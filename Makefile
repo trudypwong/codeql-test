@@ -1,4 +1,2 @@
 all:
-	gcc -o main wk5exercise1.c
-
-
+	gcc -o main sim2exercise1.c
