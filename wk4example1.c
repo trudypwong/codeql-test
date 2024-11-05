@@ -19,5 +19,6 @@ int main(int argc, char **argv)
   // char *args[] = {"ls", "-l", userName};
   // execvp("ls", args);
 
-  system(command1);
+  // todo: check
+  // system(command1);
 }
